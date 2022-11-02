@@ -28,7 +28,7 @@ class MainController {
       scene.element.classList.add("cue-in")
       scene.element.style.display = "block"
       
-      document.title = "Conga!"
+      document.title = "🕺"
     })
     
     // Button:
